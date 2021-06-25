@@ -2,7 +2,6 @@ from binance.websockets import BinanceSocketManager
 from binance.client import Client
 from binance.enums import *
 
-from twisted.internet import reactor
 from playsound import playsound
 from pprint import pprint
 import time
