@@ -1,2 +1,0 @@
-KEY = 'API_KEY'
-SECRET = 'API_SECRET'
