@@ -8,9 +8,9 @@ import time
 
 import config
 
-symbol = 'BTCUSDT'
-upper = 45000.0
-lower = 38000.0
+symbol = 'BTCUSDT'  #Currency
+upper = 45000.0     #Upper price limit
+lower = 38000.0     #Lower price limit
 
 sounds = {
     "Alert": "./Sounds/Alert.wav",
